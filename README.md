@@ -1,9 +1,26 @@
-# React + Vite
+## React RTK Demo by codevolution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### features/actions
 
-Currently, two official plugins are available:
+1.  cake slice
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# react-rtk-demo
+- increase and decrease
+
+2.  ice cream slice
+
+- increase and decrease
+
+3.  user slice (remote data)
+
+- fetch from json placeholder and display on ui
+
+### technologies used
+
+- React, Redux
+
+### completed tasks
+
+- increment or add cake/ice cream to the store by static data
+- increment or add cake/ice cream to the store by user input data
+
+### pending tasks
